@@ -7,8 +7,11 @@ cp .env.example  .env
 php artisan key:generate
 php artisan migrate
 php artisan db:init
-```
 
+```
+登陆账号
+yaoyao
+123456
 
 
 

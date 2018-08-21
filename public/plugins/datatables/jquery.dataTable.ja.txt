@@ -1,0 +1,24 @@
+{
+    "sProcessing":   "処理中...",
+    "sLengthMenu":   " _MENU_ つの結果が表示されます",
+    "sZeroRecords":  "マッチングの結果がありません",
+    "sInfo":         "第 _START_ から _END_ までの結果を表示し、合計で _TOTAL_ 項があります",
+    "sInfoEmpty":    "第 0 から 0 までの結果が表示され、合計で 0 項があります",
+    "sInfoFiltered": "( _MAX_ 項の結果によってフィルタリングされます)",
+    "sInfoPostFix":  "",
+    "sSearch":       "捜索:",
+    "sUrl":          "",
+    "sEmptyTable":     "表のデータが空です",
+    "sLoadingRecords": "読み込み中...",
+    "sInfoThousands":  ",",
+    "oPaginate": {
+        "sFirst":    "ホームページ",
+        "sPrevious": "前のページ",
+        "sNext":     "次のページ",
+        "sLast":     "最後のページ"
+    },
+    "oAria": {
+        "sSortAscending":  ": 昇順でランニングしてください",
+        "sSortDescending": ": 降順でランニングしてください"
+    }
+}

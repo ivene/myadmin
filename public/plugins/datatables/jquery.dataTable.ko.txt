@@ -1,0 +1,24 @@
+{
+    "sProcessing":   "처리중...",
+    "sLengthMenu":   " _MENU_ 항결과 표시",
+    "sZeroRecords":  "매칭 결과가 없습니다.",
+    "sInfo":         "제 _START_ - _END_ 항 결과 표시,총 _TOTAL_ 항",
+    "sInfoEmpty":    "제 0 - 0 항 결과 표시,총 0 항",
+    "sInfoFiltered": "( _로 MAX_ 항 결과 여과)",
+    "sInfoPostFix":  "",
+    "sSearch":       "검색:",
+    "sUrl":          "",
+    "sEmptyTable":     "차트중 데이터가 없습니다.",
+    "sLoadingRecords": "로딩중...",
+    "sInfoThousands":  ",",
+    "oPaginate": {
+    "sFirst":    "첫페지",
+    "sPrevious": "윗페지",
+    "sNext":     "다음페지",
+    "sLast":     "마지막페지"
+    },
+    "oAria": {
+        "sSortAscending":  ": 오름차순으로 배열",
+        "sSortDescending": ": 내림차순으로 배열"
+    }
+}

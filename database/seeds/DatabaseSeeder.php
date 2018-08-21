@@ -101,18 +101,6 @@ class DatabaseSeeder extends Seeder
         \App\Models\Base\BaseSysAdminDepartment::truncate();
         \App\Models\Base\BaseSysAdminDepartment::insert([
             [
-                "id"=> 0,
-                "dp_name"=> "无",
-                "parent_id"=> -1,
-                "root_id"=> 0,
-                "level"=> 1,
-                "path"=> "|",
-                "powerid"=> "|",
-                "status"=> 1,
-                "created_at"=> null,
-                "updated_at"=> null
-            ],
-            [
                 "id"=> 1,
                 "dp_name"=> "管理员",
                 "parent_id"=> 0,
